@@ -1,0 +1,19 @@
+{
+	"name": "@kilyakus/js-iconview",
+	"productName": "iconview",
+	"version": "1.2610.03507",
+	"description": "",
+	"main": "js/iconview.obf.js",
+	"author": "",
+	"authorUsername": "Kilyakus",
+	"license": "CC-BY-NC-4.0",
+	"licenseLegal": "Attribution-NonCommercial 4.0 International",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/js-iconview.git"
+	},
+	"build": {},
+	"publishConfig": {
+		"access": "public"
+	}
+}
